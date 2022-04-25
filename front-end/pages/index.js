@@ -224,7 +224,7 @@ const renderButton = () => {
     return (
       <div>
         <div className={styles.description}>
-          Presale hasn't started!
+          Presale hasn&apos;t started!
         </div>
       </div>
     )
